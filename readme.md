@@ -19,7 +19,7 @@ $ docker stop $(docker ps -aq)
 Please clone into directoy that is already bind with docker.
 
 ```bash
-$ git clone git@github.com:khinmayoo/laravel-with-docker.git
+$ git clone https://github.com/AungPhyoKywe/Laravel_Guzzle.git
 $ cd laravel-with-docker
 ```
 
