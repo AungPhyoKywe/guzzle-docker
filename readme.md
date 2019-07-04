@@ -20,7 +20,7 @@ Please clone into directoy that is already bind with docker.
 
 ```bash
 $ git clone https://github.com/AungPhyoKywe/Laravel_Guzzle.git
-$ cd laravel-with-docker
+$ cd Laravel_Guzzle
 ```
 
 ### 1. Bind local directory with docker directory 
